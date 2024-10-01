@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Bayan, a passionate developer who loves crafting dynamic and user-friendly web applications.<br>✨ Check out my portfolio [here](https://bayhans.github.io/portfolio/) to explore my latest projects! <br>🚀 I'm always eager to collaborate and share ideas with fellow developers.<br><br> Let’s connect and create something amazing together! 🌟
+👋 Hi there! I’m Bayan, a passionate developer who loves crafting dynamic and user-friendly web applications.<br>✨ Check out my portfolio [here](https://bayhans.github.io/portfolio/)  to explore my latest projects! <br>🚀 I'm always eager to collaborate and share ideas with fellow developers.<br><br> Let’s connect and create something amazing together! 🌟
 
 
 # 💻 Tech Stack:
@@ -13,9 +13,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=bayhans&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bayhans&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
